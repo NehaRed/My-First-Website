@@ -15,11 +15,25 @@ h1 {
 	
 }
 
-#footer {background-color:#C9D6EA;color:#011627}
+#footer {background-color:#C9D6EA;color:#011627;}
 
 #lowerfooter {background-color:#011627}
 
 #lowerfooter i {font-size:60px;color:#C9D6EA;margin:10px 13px}
 
 .navbar {background-color:#011627}
+
+
+.memberBenefits i {font-size:130px;color:#C9D6EA}
+.memberBenefits p {font-size:30px;color:#C9D6EA;margin-top:12px}
+.mBBox {background-color:#011627;padding:11px;border-radius:13px}
+
+
+.pBox {border:#C9D6EA 1px solid;border-radius:8px;margin:8px} 
+.pBox img {z-index:-1}
+.pBox button {border-radius:8px;margin-top:16px;background-color:#011627;border:2px #C9D6EA;color:#C9D6EA}
+.pBox button:hover{background-color:#C9D6EA;border:2px #C9D6EA;color:#011627} 
+
+
+
 
