@@ -31,7 +31,7 @@ h1 {
 
 .pBox {border:#C9D6EA 1px solid;border-radius:8px;margin:8px} 
 .pBox img {z-index:-1}
-.pBox button {border-radius:8px;margin-top:16px;background-color:#011627;border:2px #C9D6EA;color:#C9D6EA}
+.pBox button {border-radius:8px;margin-top:5px;background-color:#011627;border:2px #C9D6EA;color:#C9D6EA;padding:4px}
 .pBox button:hover{background-color:#C9D6EA;border:2px #C9D6EA;color:#011627} 
 
 
